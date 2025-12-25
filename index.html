@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NebulaSearch</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            height: 100vh;
+            font-family: "Segoe UI", Arial, sans-serif;
+            background: radial-gradient(circle at top, #2b2f36, #0f1115);
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 64px;
+            font-weight: 700;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+        }
+
+        .tagline {
+            font-size: 18px;
+            color: #9aa4b2;
+            margin-bottom: 40px;
+        }
+
+        form {
+            width: 100%;
+            max-width: 620px;
+            display: flex;
+            gap: 12px;
+        }
+
+        input[type="text"] {
+            flex: 1;
+            padding: 16px 22px;
+            font-size: 18px;
+            border-radius: 30px;
+            border: none;
+            outline: none;
+            background: #1c1f26;
+            color: #ffffff;
+        }
+
+        input::placeholder {
+            color: #8a8f98;
+        }
+
+        button {
+            padding: 16px 28px;
+            font-size: 16px;
+            border-radius: 30px;
+            border: none;
+            cursor: pointer;
+            background: linear-gradient(135deg, #5da9ff, #3f7cff);
+            color: white;
+            font-weight: 600;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(93, 169, 255, 0.4);
+        }
+
+        footer {
+            position: absolute;
+            bottom: 20px;
+            font-size: 14px;
+            color: #7d8590;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="logo">NebulaSearch</div>
+    <div class="tagline">Search your knowledge universe</div>
+
+    <form action="/search" method="get">
+        <input type="text" name="q" placeholder="Search documents..." required>
+        <button type="submit">Search</button>
+    </form>
+
+    <footer>
+        Mini Search Engine • Built from Scratch
+    </footer>
+
+</body>
+</html>
