@@ -15,3 +15,4 @@ NebulaSearch is a document-centric AI search platform that combines keyword-base
 2. Pull model: `ollama pull llama3`
 3. Run server: `python server.py`
 4. Open `http://localhost:8000`
+I have given the data i used in the txt files before executing in your local computer  make sure to save them in a data folder
