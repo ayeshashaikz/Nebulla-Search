@@ -1,0 +1,4 @@
+Data Science is an interdisciplinary field that combines statistics, programming, and domain knowledge.
+It focuses on extracting insights and knowledge from structured and unstructured data.
+Data science workflows include data collection, data cleaning, exploratory analysis, and visualization.
+Machine learning and artificial intelligence techniques are commonly used in data science projects.

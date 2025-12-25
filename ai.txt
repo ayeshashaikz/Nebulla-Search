@@ -1,0 +1,6 @@
+Artificial Intelligence (AI) is a field of computer science focused on creating systems that can perform tasks requiring human intelligence.
+These tasks include reasoning, problem solving, perception, learning, and decision making.
+AI systems can be rule based or data driven.
+Common applications of artificial intelligence include virtual assistants, recommendation systems, image recognition, and autonomous vehicles.
+Modern AI combines algorithms, data, and computing power to simulate intelligent behavior.
+

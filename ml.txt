@@ -1,0 +1,4 @@
+Machine Learning (ML) is a subset of artificial intelligence that enables systems to learn from data without being explicitly programmed.
+Machine learning algorithms identify patterns and relationships in data to make predictions or decisions.
+There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning.
+ML is widely used in applications such as spam detection, medical diagnosis, recommendation systems, and speech recognition.

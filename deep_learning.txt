@@ -1,0 +1,5 @@
+Deep Learning is a specialized area of machine learning that uses neural networks with multiple layers.
+These deep neural networks can automatically learn hierarchical features from large datasets.
+Deep learning is widely used in computer vision, natural language processing, and speech recognition.
+Popular deep learning models include convolutional neural networks and recurrent neural networks.
+High computational power and large amounts of data are required for effective deep learning systems.

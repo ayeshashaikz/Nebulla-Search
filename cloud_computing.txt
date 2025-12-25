@@ -1,0 +1,6 @@
+Cloud Computing provides on demand access to computing resources over the internet.
+These resources include servers, storage, databases, networking, and software services.
+Cloud platforms offer scalability, flexibility, and cost efficiency.
+Common cloud deployment models include public cloud, private cloud, and hybrid cloud.
+Popular cloud service providers include AWS, Microsoft Azure, and Google Cloud.
+
